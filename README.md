@@ -1,6 +1,6 @@
 # 💻 Rohan Pujari  
 
-**📍 Data Scientist | Machine Learning Engineer | AI & NLP Enthusiast**  
+📍 Data Scientist | Machine Learning Engineer | AI & NLP Enthusiast
 📧 rohanpujari1914@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/rohanpujari) | 📂 [GitHub](https://github.com/RohanPujari)  
 
 ## 🚀 About Me  
