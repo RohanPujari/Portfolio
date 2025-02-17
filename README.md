@@ -1,7 +1,7 @@
 # 💻 Rohan Pujari  
 
 📍 Data Scientist | Machine Learning Engineer | AI & NLP Enthusiast
-📧rohanpujari1914@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/rohanpujari) | 📂 [GitHub](https://github.com/RohanPujari)  
+📧 [Email](rohanpujari1914@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/rohanpujari) | 📂 [GitHub](https://github.com/RohanPujari)  
 
 ## 🚀 About Me  
 A **Data Science professional with 5+ years of experience** specializing in **machine learning, predictive analytics, and classification tasks**. Proficient in **Python, NLP, and cloud platforms** to deliver **actionable insights and automate workflows**. Experienced in building **dynamic dashboards and data pipelines**, enhancing decision-making processes. Proven success in **educational data analysis, finance, and business intelligence applications**.  
@@ -50,7 +50,7 @@ A **Data Science professional with 5+ years of experience** specializing in **ma
 ## 📚 Education  
 
 🎓 **Master of Science in Data Science** | **New Jersey Institute of Technology** (2022 – 2024)  
-🎓 **Post-Graduate Diploma in Data Science** | **IIIT Bangalore** (2021 – 2022)  
+🎓 **Post-Graduate Diploma in Data Science** | **International Institute of Information Technology** (2021 – 2022)  
 
 ---  
 
