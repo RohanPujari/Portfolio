@@ -12,7 +12,6 @@ A **Data Science professional with 5+ years of experience** specializing in **ma
 
 **Programming Languages:** Python, SQL, R  
 **Cloud Platforms:** Microsoft Azure, AWS (S3, IAM, Glue, Bedrock, Crawler), GCP, Snowflake  
-**Big Data Technologies:** Apache Spark  
 **Data Visualization Tools:** Tableau, Power BI, Microsoft Excel, Streamlit  
 **Data Modeling & Manipulation:** Dimensional modeling, schema design, data cleaning, transformation, preprocessing  
 **Statistical Analysis:** Data mining, predictive analytics, A/B testing, hypothesis testing  
